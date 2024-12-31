@@ -23,6 +23,8 @@ Summary: Used Kaggle's "Camera" dataset to develop datasetes and visualizations 
 
  ## LABS (4 days)
 
+ More summaries to be posted soon. 
+
  ### 1. [Lab Intro](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_intro/lab_intro.ipynb)
  
  Set up computer environment
