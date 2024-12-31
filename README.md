@@ -23,33 +23,65 @@ Summary: Used Kaggle's "Camera" dataset to develop datasetes and visualizations 
 
  ## LABS (4 days)
 
- ### Lab Experimental Design
-
- ### Lab Favorites
-
- ### Lab GPA
+ ### 1. [Lab Intro](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_intro/lab_intro.ipynb)
  
- ### Lab Hypothesis Tests
+ Set up computer environment
 
- ### Lab Intro
+ ### 2. [Lab Pandas](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_pandas/lab_pandas.ipynb)
  
- ### Lab Justice
+ Basic practice and gaining familiarity the Pandas library. Imported datasets and created filtered subsets.
 
- ### Lab Pandas
+ ### 3. [Lab Experimental Design](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_exp_design/lab_exp_design.ipynb)
 
- ### Lab Plots
+ Using Pandas to design an experiment, including creating treatment and control groups from datasets. 
 
- ### Lab Populations
+ ### 4. [Lab Simpsons Paradox](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_simpsons_paradox/lab_simpsons_paradox.ipynb)
 
- ### Lab Probability
+Determining if there's Simpson's Paradox in a dataset about party size, and a dataset about GPA. Includes practicing conditionals with Pandas dataframes.
 
- ### Lab Random Variable
+ ### 5. Lab Plots
 
- ### Lab Regression
+ ### 6. Lab GPA
+  
+ ### 7. Lab Favorites
 
- ### Lab Similarity
+ ### 8. Lab Similarity
 
- ### Lab Simpsons Paradox
+ ### 9. Lab Justice
+
+ ### 10. Lab Probability
+
+ ### 11. Lab Random Variable
+
+ ### 12. Lab Populations
+
+ ### 13. Lab Hypothesis Tests
+
+ ### 14. Lab Regression
+
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
 
  
  
