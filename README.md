@@ -23,33 +23,33 @@ Summary: Used Kaggle's "Camera" dataset to develop datasetes and visualizations 
 
  ## LABS (4 days)
 
- ### [Lab Experimental Design](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_exp_design/lab_exp_design.ipynb)
+ ### Lab Experimental Design
 
- ### [Lab Favorites](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_favorites,-Add%20files%20via)
+ ### Lab Favorites
 
- ### [Lab GPA](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_gpa,-Add%20files%20via)
+ ### Lab GPA
  
- ### [Lab Hypothesis Tests](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=lab_hypothesis_tests)
+ ### Lab Hypothesis Tests
 
- ### [Lab Intro](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_intro,-Add%20files%20via)
+ ### Lab Intro
  
- ### [Lab Justice](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_justice,-Add%20files%20via)
+ ### Lab Justice
 
- ### [Lab Pandas](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_pandas,-Add%20files%20via)
+ ### Lab Pandas
 
- ### [Lab Plots](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_plots,-Add%20files%20via)
+ ### Lab Plots
 
- ### [Lab Populations](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_populations,-Add%20files%20via)
+ ### Lab Populations
 
- ### [Lab Probability](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_probability,-Add%20files%20via)
+ ### Lab Probability
 
- ### [Lab Random Variable](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_random_variable,-Add%20files%20via)
+ ### Lab Random Variable
 
- ### [Lab Regression](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=27%20days%20ago-,lab_regression,-Add%20files%20via)
+ ### Lab Regression
 
- ### [Lab Similarity](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=2%20weeks%20ago-,lab_similarity,-Add%20files%20via)
+ ### Lab Similarity
 
- ### [Lab Simpsons Paradox](https://github.com/rkwreck/STAT107_Labs_and_Projects#:~:text=lab_simpsons_paradox)
+ ### Lab Simpsons Paradox
 
  
  
