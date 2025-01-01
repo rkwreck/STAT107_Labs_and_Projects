@@ -1,5 +1,5 @@
 # About
-This repository contains all my labwork & projects from UIUC's STAT 107 Data Science DISCOVERY course. This is a fully updated back-up repository to save my own work. 
+This repository contains all my labwork & projects from UIUC's [STAT 107 Data Science DISCOVERY](https://discovery.cs.illinois.edu/) course. This is a fully updated back-up repository to save my own work. 
 
 All work is completed using **Python Pandas & Jupyter Notebook**.
 
@@ -10,7 +10,7 @@ All work is completed using **Python Pandas & Jupyter Notebook**.
 ### Project Mosaic
 Detailed spec: https://discovery.cs.illinois.edu/guides/project-mosaic/
 
-Summary: Re-creates a larger base image as a mosaic of smaller images, or "tiles". I retrieved over 500 tiles from NASA's Instagram Page (cannot be uploaded to GitHub as the file is too large). 
+Summary: Re-creates a larger base image as a mosaic of smaller images, or "tiles". I retrieved over 500 tiles from NASA's Instagram Page (cannot be uploaded to GitHub as the file is too large) to create my "base image", which is my original photograph of a street at UIUC. 
 
 ### Project Cameras: Hypothesis Testing
 Detailed spec: https://discovery.cs.illinois.edu/guides/Course-Projects/You-and-Data-Science-Part-1/ 
