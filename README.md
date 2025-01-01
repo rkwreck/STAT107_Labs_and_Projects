@@ -79,9 +79,13 @@ Using custom discrete distributions and binomial distributions to model complex 
 
  Using sampling and inference (confidence intervals, margin of error) to determine which UIUC students in the course follow UIUC's data science Instagram account, and which students would likely approve of a new school mascot. 
  
- ### 13. Lab Hypothesis Tests
+ ### 13. [Lab Hypothesis Tests](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_hypothesis_tests/lab_hypothesis_tests.ipynb)
 
- ### 14. Lab Regression
+ Use the HELLO dataset (defined in summary for lab #8) to conduct hypothesis tests that answer this question: "Do UIUC students get significantly different sleep compared to the average American?"
+
+ ### 14. [Lab Regression](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_regression/lab_regression.ipynb)
+
+ Made predictions of house prices with machine learning and linear regression. Used Seaborn package. 
 
  
  
