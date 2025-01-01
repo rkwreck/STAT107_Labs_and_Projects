@@ -7,12 +7,12 @@ All work is completed using **Python Pandas & Jupyter Notebook**.
 
 ## PROJECTS (1-2 weeks)
 
-### Project Mosaic
+### 1. [Project Mosaic](https://github.com/rkwreck/STAT107_Labs_and_Projects/tree/main/project_mosaic)
 Detailed spec: https://discovery.cs.illinois.edu/guides/project-mosaic/
 
 Summary: Re-creates a larger base image as a mosaic of smaller images, or "tiles". I retrieved over 500 tiles from NASA's Instagram Page (cannot be uploaded to GitHub as the file is too large) to create my "base image", which is my original photograph of a street at UIUC. 
 
-### Project Cameras: Hypothesis Testing
+### 2. Project Cameras: Hypothesis Testing
 Detailed spec: https://discovery.cs.illinois.edu/guides/Course-Projects/You-and-Data-Science-Part-1/ 
 
 "Camera" dataset chosen out of my passion for photographpy, and the nerd side of me that likes knowing the technicalities behind my cameras. 
