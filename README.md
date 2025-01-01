@@ -23,7 +23,7 @@ Summary: Used Kaggle's "Camera" dataset to develop datasetes and visualizations 
 
  ## LABS (4 days)
 
- More summaries to be posted soon. 
+ Lab Highlights: #8-10. 
 
  ### 1. [Lab Intro](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_intro/lab_intro.ipynb)
  
@@ -41,22 +41,44 @@ Summary: Used Kaggle's "Camera" dataset to develop datasetes and visualizations 
 
 Determining if there's Simpson's Paradox in a dataset about party size, and a dataset about GPA. Includes practicing conditionals with Pandas dataframes.
 
- ### 5. Lab Plots
+ ### 5. [Lab Plots](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_plots/lab_plots.ipynb)
 
- ### 6. Lab GPA
+Working with MatPlotLib library to generate data visualizations of datasets. Used a university staff/salary dataset. 
+
+ ### 6. [Lab GPA](https://canvas.illinois.edu/courses/48517/assignments/1033059)
+
+Calculating basic descriptive statistics from a dataset using Pandas, and generating data visualizations of said stats. Used grouping & aggregation. 
   
- ### 7. Lab Favorites
+ ### 7. [Lab Favorites](https://canvas.illinois.edu/courses/48517/assignments/1033060)
 
- ### 8. Lab Similarity
+Practice using Random. Calculated probabilities. Practice with RGB values to determine which pixels in a dataset are primarly red, green, and blue -- in preparation for Project Mosaic. 
 
- ### 9. Lab Justice
+ ### 8. [Lab Similarity](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_similarity/lab_similarity.ipynb)
 
- ### 10. Lab Probability
+Use Pandas to determine which student is most similar to you in the STAT 107 course, using the "Hello Dataset." The Hello Dataset comprises of survey answers of 1000+ students in this course. Survey questions were simple and qualitative, including "What is your favorite color?", "Do you have a pet?", and "Favorite way to spend your free time?" 
 
- ### 11. Lab Random Variable
+Practice using the similarity function. Can only use about 2-4 questions to narrow down who your "twin" is. 
 
- ### 12. Lab Populations
+ ### 9. [Lab Justice](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_justice/lab_justice.ipynb)
 
+Applying data science to **equity and social justice**. Determined how likely it was for the jury of Berghuis v Smith to be an all-White jury given that the population at the time of the trial was about 8% Black, and whether that was fair. Out of 100 randomly selected people, only 3 were Black, and none made it to the final 37 that were at the trial. Was the difference between this 8% and 3% significant and reflects an attempt to be exlusive, or due to chance? 
+
+Topics: simulations, observed & expected values, functions, data visualizations, probability, sampling.
+
+ ### 10. [Lab Probability](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_probability/lab_probability.ipynb)
+
+ Working with the classic Birthday Probability problem. Determining how likely it is for at least two people to match birthdays in a room of n people, and how big n should be. 
+
+ Used probability and data visualizations. 
+
+ ### 11. [Lab Random Variable](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_random_variable/lab_random_variable.ipynb) 
+
+Using custom discrete distributions and binomial distributions to model complex events, such as the minimum number of customers you need to break even in a day at your business. 
+
+ ### 12. [Lab Populations](https://github.com/rkwreck/STAT107_Labs_and_Projects/blob/main/lab_populations/lab_populations.ipynb)
+
+ Using sampling and inference (confidence intervals, margin of error) to determine which UIUC students in the course follow UIUC's data science Instagram account, and which students would likely approve of a new school mascot. 
+ 
  ### 13. Lab Hypothesis Tests
 
  ### 14. Lab Regression
