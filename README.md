@@ -1,7 +1,7 @@
 # About
 This repository contains all my labwork & projects from UIUC's [STAT 107 Data Science DISCOVERY](https://discovery.cs.illinois.edu/) course. This is a fully updated back-up repository to save my own work. 
 
-All work is completed using **Python Pandas & Jupyter Notebook**.
+All work is completed using **Python Pandas, Python Libraries, & Jupyter Notebook**.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
